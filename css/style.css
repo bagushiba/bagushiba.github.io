@@ -1,0 +1,28 @@
+/* Start Body */
+body {
+    background-color: aqua ;
+    color: green ;
+    font-family:  Helvetica, Arial, sans-serif ;
+    font-size: 16px ;
+    line-height: 1.5em ;
+    margin: 0 ;
+    padding: 0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color: rebeccapurple
+}
+.bg-blue {
+    background-color: bisque
+}
+/* End Debug */
+
+/* Start Conteiner */
+    .container {
+        margin: 10px auto ;
+        overflow: auto ;
+        width: 100 %;
+    }
+/* End Conteiner */
